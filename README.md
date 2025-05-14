@@ -2,9 +2,9 @@
 const mineflayer = require('mineflayer');
 const dns = require('dns');
 
-const SERVER_HOST = 'mymcserver.aternos.me'; // ganti ini
-const SERVER_PORT = 21943;
-const USERNAME = 'BotAFK';
+const SERVER_HOST = 'ip server'; // ganti ini
+const SERVER_PORT = port;
+const USERNAME = 'nama bot';
 
 const messages = ['p', 'masih aktif', 'hi', 'hai'];
 let reconnectDelay = 30000;
